@@ -21,7 +21,7 @@
 // SDL
 #include "SDL.h"
 #include "SDL_opengl.h"
-#include "SDL_net.h"
+//#include "SDL_net.h"
 
 // stb_glprog.h
 #define STB_GLPROG_IMPLEMENTATION
